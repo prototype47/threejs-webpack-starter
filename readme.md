@@ -1,5 +1,6 @@
 
 ## Setup
+(Clone the Repo and run the following commands)<br>
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 

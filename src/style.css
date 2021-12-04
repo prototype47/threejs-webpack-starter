@@ -24,8 +24,10 @@ body
     outline: none;
     mix-blend-mode: exclusion;  /* used to make the sphere transparent */
 }
-header
+header, footer
 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
     color: white;
     display: flex;
     align-items: center;
